@@ -1,0 +1,1 @@
+data_stack = ["python","sql","Airflow","Cloud Tech","Logical Reasoning"]

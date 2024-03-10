@@ -1,0 +1,4 @@
+sqlalchemy==2.0.22
+psycopg2-binary
+# if the binary fails to install,comment it out, uncomment the next line, save and reinstall
+# psycopg2==2.9.7
